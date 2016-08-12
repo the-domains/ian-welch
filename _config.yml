@@ -1,4 +1,3 @@
-layout_spectrum: 0.9665491441264749
 typography_spectrum: 0.6753946568351239
 color:
   brandStrength: 0.44882756122387946
@@ -11,5 +10,11 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-name: Ian Welch
+layout_spectrum: 0.9665491441264749
+author:
+  url: www.welch777.com
+  email: ianwelch2015@gmail.com
+  name: Ian Welch
+logo: null
+name: WELCH777
 title: Moving Things Forward
